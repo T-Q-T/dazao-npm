@@ -1,0 +1,25 @@
+{
+  "name": "dz-public-way",
+  "version": "1.0.5",
+  "description": "项目通用方法",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "npm run test",
+    "build": "tsc",
+    "public": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-Q-T/dazao-npm.git"
+  },
+  "author": "Ethan Qin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T-Q-T/dazao-npm/issues"
+  },
+  "homepage": "https://github.com/T-Q-T/dazao-npm#readme",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
